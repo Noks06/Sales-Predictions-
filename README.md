@@ -13,7 +13,6 @@ For this dataset there are 8523 records, 12 columns.
  
 Below is the Data Dictionary for this dataset:
 
-
 ![image](https://github.com/Noks06/Prediction-of-Product-Sales/assets/47742188/ba6b383c-88c9-4eee-bb16-aef9662e4c49)
 
 ## To Prepare this data set , Data was cleansed and following processes were followed.
@@ -146,4 +145,4 @@ The limitations could be crime in the populated areas. Crime involve theft, kill
 
 
 For any additional questions, please contact Nokuthula Mchunu the email is: **nokuthula.mchunu@momentum.co.za**
-# Sales-Predictions-
+
